@@ -1,0 +1,88 @@
+PackratFormat: 1.3
+PackratVersion: 0.2.0.125
+RVersion: 3.1.0
+Repos: CRAN=http://cran.rstudio.com
+
+Package: bitops
+Source: CRAN
+Version: 1.0-6
+
+Package: caTools
+Source: CRAN
+Version: 1.17
+
+Package: digest
+Source: CRAN
+Version: 0.6.4
+
+Package: evaluate
+Source: CRAN
+Version: 0.5.5
+
+Package: formatR
+Source: CRAN
+Version: 0.10
+
+Package: highr
+Source: CRAN
+Version: 0.3
+
+Package: htmltools
+Source: CRAN
+Version: 0.2.4
+
+Package: httpuv
+Source: CRAN
+Version: 1.3.0
+
+Package: knitr
+Source: CRAN
+Version: 1.6
+
+Package: markdown
+Source: CRAN
+Version: 0.7
+
+Package: mime
+Source: CRAN
+Version: 0.1.1
+
+Package: packrat
+Source: github
+Version: 0.2.0.125
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: 93156633b82de4e528a1da74d7814cabef995e6e
+
+Package: Rcpp
+Source: CRAN
+Version: 0.11.2
+
+Package: RJSONIO
+Source: CRAN
+Version: 1.2-0.2
+
+Package: rmarkdown
+Source: github
+Version: 0.2.46
+GithubRepo: rmarkdown
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: 8d998dc1f1de0ac415b81e62a66736be8c4bb73f
+
+Package: shiny
+Source: CRAN
+Version: 0.10.0
+
+Package: stringr
+Source: CRAN
+Version: 0.6.2
+
+Package: xtable
+Source: CRAN
+Version: 1.7-3
+
+Package: yaml
+Source: CRAN
+Version: 2.1.13
